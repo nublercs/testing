@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var multiplicacion: Button
     private lateinit var division: Button
     private lateinit var resultado: TextView
+    //correct
 //test
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
