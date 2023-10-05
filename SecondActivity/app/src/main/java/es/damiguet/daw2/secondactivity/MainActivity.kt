@@ -15,7 +15,7 @@ import androidx.core.content.PermissionChecker
 
 class MainActivity : AppCompatActivity() {
     private lateinit var btnLanzarSegundaActividad:Button
-    private val CALL_PERMISSION_CODE = 10
+    private val CALL_PERMISSION_CODE = 100
 
 
 
