@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecondActivity</string>
+    <string name="opcion_1">o1</string>
+    <string name="opcion_2">o2</string>
+</resources>

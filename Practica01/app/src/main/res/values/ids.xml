@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="numero1" type="id"></item>
+    <item name="numero2" type="id"></item>
+    <item name="suma" type="id"></item>
+    <item name="resta" type="id"></item>
+    <item name="multiplicacion" type="id"></item>
+    <item name="division" type="id"></item>
+    <item name="resultado" type="id"></item>
+</resources>
