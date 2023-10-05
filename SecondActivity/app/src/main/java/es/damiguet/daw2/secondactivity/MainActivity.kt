@@ -12,11 +12,11 @@ import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.PermissionChecker
-
+////hugfjfuhyjhyfyjhjg
 class MainActivity : AppCompatActivity() {
     private lateinit var btnLanzarSegundaActividad:Button
     private val CALL_PERMISSION_CODE = 100
-
+    private val s:Int = 5
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
